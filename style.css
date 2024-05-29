@@ -63,8 +63,15 @@ h4 {
     width: 300px; /* Change to desired width */
     height: 300px; /* Change to desired height */
     
+    
 }
 
 .custom-section {
    
+}
+
+
+h6 {
+    font-size: 100px;
+    text-align: center;
 }
